@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yellowballoontour/static/css/main.5d3536cf.css",
+    "main.js": "/yellowballoontour/static/js/main.1411d153.js",
+    "static/media/logo_kakao.png": "/yellowballoontour/static/media/logo_kakao.9d8c77db3ec1788580ce.png",
+    "index.html": "/yellowballoontour/index.html",
+    "main.5d3536cf.css.map": "/yellowballoontour/static/css/main.5d3536cf.css.map",
+    "main.1411d153.js.map": "/yellowballoontour/static/js/main.1411d153.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3536cf.css",
+    "static/js/main.1411d153.js"
+  ]
+}
