@@ -1,4 +1,4 @@
-# React 개인 프로젝트 - 노랑풍선(YellowBalloon Tour) 클론 코딩
+# React 개인 프로젝트 - 노랑풍선(YB Tour) 클론 코딩
 
 React, Redux, React-Router를 기반으로 구현한 여행사 예약 시스템 클론 코딩 프로젝트입니다.
 
